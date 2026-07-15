@@ -1,10 +1,10 @@
 # Pre-registration (on [*AsPredicted*](https://aspredicted.org/index.php))
 
 ## Authors
--  Matteo Schmelzer (matteo.schmelzer@uni-koeln.de)
--  Tim Murphy (tim.murphy@bristol.ac.uk)
 -  Solveigh Janzen (solveigh.janzen@uni-koeln.de)
 -  Kristina Koch (kkoch@tcd.ie)
+-  Matteo Schmelzer (matteo.schmelzer@uni-koeln.de)
+-  Tim Murphy (tim.murphy@bristol.ac.uk)
 -  Nthabiseng Shongwe (nthabiseng.shongwe@ru.nl)
 
 
@@ -14,20 +14,22 @@
 
 ## Question 2 - Hypotheses
 1. The use of gesture increases (in terms of number of gestures as well as, complexity and gesture space used) when participants are unfamiliar with one another, in comparison to when they are familiar with one another.
+-   [**add_lit_here**]
 
 2. Participants that are familiar with one another have a higher success rate (more times successful and more quickly).
+-   [**add_lit_here**]
 
 3. Participants on the balance board take longer to successfully complete the Taboo task, due to increased allotment of resources allocated to balancing.
+-   [**add_lit_here**] this is based on studies that show that walking and unipedal standing caused participants to solve tasks more quickly, but we assume that balancing is more cognitively demanding as shown in another study
 
 
 ## Question 3 - Dependent variable(s)
 -   **success rate**: measured in distance of tokens until word is guessed correctly in taboo game
     -   in addition duration (s)
-    -   in an ideal world and a larger study: manual labelling of individual attempts to compare to duration until success and tokens produced
 
 
 ## Question 4 - Conditions
-1. **familiarity**: friends vs. strangers (caveat: binary measure based on a questionnaire)
+1. **familiarity**: friends vs. strangers (caveat: binary measure based on questionnaire)
    -    ideally this would be measured more precisely (how close/long have participants interacted previously)
 3. **balance board**: on the board (unstable) not on the board (stable)
 
@@ -72,3 +74,24 @@ Participants
 
 ## Question 11 - Data source
 -   other: Original audio and video files were taken from: https://doi.org/10.5281/zenodo.19853626
+
+
+## Limitations / future directions
+
+[***PULL OUT LIMITATIONS TO HERE***]
+
+### enhanced demographis
+-   "friendship"
+    -   measurement
+    -   cultural variance
+-   balancing ability (on the day)
+    -   practical balancing test (as a base line)
+    -   hearing test
+-   (idea) test acuity as relevant to Taboo task
+
+### cognitive load induced via balance board
+-   different cognitive load, different balance board
+-   
+
+### data annotation
+    -   in an ideal world and a larger study: manual labelling of individual attempts to compare to duration until success and tokens produced
