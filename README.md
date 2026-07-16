@@ -69,7 +69,7 @@ Our dependent variable is success rate, which is operationalised as described un
 
 
 ## Question 5 - Analyses
-We plan to extract and analyse gestures using `OpenPose` using the video files provided in the original study by [`**ADD**`]. Based on this output we are measuring:
+Our analysis is based on an existing dataset used for an original study by Li et al. [-@li2026]. We plan to extract and analyse gestures using `EnvisionBoxHGDetector` [@pouw2025a] using the video files provided in the original study. Based on this output we are measuring:
 -   gestural rate (per trial)
 -   gesture space (per trial)
 -   gesture duration (per trial)
