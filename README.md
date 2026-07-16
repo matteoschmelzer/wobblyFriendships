@@ -66,9 +66,9 @@ Our dependent variable is success rate, which is operationalised as described un
 
 
 ## Question 4 - Conditions
-1. **familiarity**: friends vs. strangers (caveat: binary measure based on questionnaire)
-   -    ideally this would be measured more precisely (how close/long have participants interacted previously)
-3. **balance board**: on the board (unstable) not on the board (stable)
+1. **familiarity** -- Here we are comparing two different dyad compositions, consisting of either two friends or two strangers (with the caveat that with currently available data, this is based on a binary measure based on participant responses to a questionnaire -- for a full study, this measure should to be refined to more accurate measure duration and closeness of the relationships between participants).
+
+2. **balance board** -- Here we are comparing clue-giver standing on a one-axis balance board (unstable) to the same clue-givers while standing on the floor (stable).
 
 
 ## Question 5 - Analyses
