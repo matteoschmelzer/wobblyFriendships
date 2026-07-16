@@ -95,7 +95,7 @@ We are excluding bilingual speakers as well as non-L1 speakers of English, to li
 
 
 ## Question 7 - Sample size
-4 dyads à 40 trials, N=160
+4 dyads à 40 trials (N=160)
 
 participants:
 -   5 female, 3 male
@@ -120,6 +120,7 @@ other: Original audio and video files were taken from Li et al.'s [-@li2026] [ze
 
 
 ## Limitations / future directions
+The following are not part of the preregistration as formatted on [*AsPredicted.org*](https://aspredicted.org/index.php).
 
 ### enhanced demographics
 For a follow up replication of the basic setup, we would aim to collect more detailled demographics, to more reliably analyse differences in the success rate and language and gesture use of participants.
@@ -140,3 +141,7 @@ Audio recordings should be manually labelled in more detail to indicate individu
 
 ### data availability
 If we were to make additional recordings (or record a new set of recordings using the, possibly modified, setup) we would strongly consider applying a masking algorithm such as `MaskAnyone`[@owoyele2024] or `masked piper` [@owoyele2022a] to de-identify data and thus increase our ability to make data publically available for other researchers to use in their experiments.
+
+{{< pagebreak >}}
+
+# References
