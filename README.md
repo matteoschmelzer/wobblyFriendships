@@ -58,6 +58,7 @@ format: pdf
 
 4. Participants on the balance board take longer to successfully complete the Taboo task, due to increased allotment of resources allocated to balancing.
 -   [**add_lit_here**] this is based on studies that show that walking and unipedal standing caused participants to solve tasks more quickly, but we assume that balancing is more cognitively demanding as shown in another study
+-   Also exploratory as we use the 10 dyads from Hypotheses 2 and 3 (N=400 trials). We find no support for this hypothesis. If anything, we find that the non-significant trend is in the opposite direction. Trials on the balanace board were faster, not slower, than trials on stable ground (median 9.31s vs 10.62s; trial-level Mann Whitney U p=.292; paired per-pair Wilcoxon W=21.0, p=.557). Taboo word rule slips (accidentally saying a forbidden word) were also statistically indistinguishable between conditions (15.5% vs 14.0% of trials, χ²=.08, p=.778).
 
 
 ## Question 3 - Dependent variable(s)
