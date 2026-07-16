@@ -66,9 +66,9 @@ Our dependent variable is success rate, which is operationalised as described un
 
 
 ## Question 4 - Conditions
-1. **familiarity** -- Here we are comparing two different dyad compositions, consisting of either two friends or two strangers (with the caveat that with currently available data, this is based on a binary measure based on participant responses to a questionnaire -- for a full study, this measure should to be refined to more accurate measure duration and closeness of the relationships between participants).
+1. **familiarity** -- Here we are comparing two different dyad compositions, consisting of either two friends or two strangers (with the caveat that with currently available data, this is based on a binary measure based on participant responses to a questionnaire -- for a comprehensive study, this measure should to be refined to more accurate measure duration and closeness of the relationships between participants).
 
-2. **balance board** -- Here we are comparing clue-giver standing on a one-axis balance board (unstable) to the same clue-givers while standing on the floor (stable).
+2. **balance board** -- Here we are comparing clue-givers standing on a one-axis balance board (unstable) to the same clue-givers while standing on the floor (stable).
 
 
 ## Question 5 - Analyses
@@ -77,7 +77,7 @@ Our analysis is based on an existing dataset used for an original study by Li et
 -   gesture space (per trial)
 -   gesture duration (per trial)
 
-In addition we are measuring success rate of individual trials based on existing proofread transcripts of used in the original study. A trial only counts as a success if the guesser (not the clue giver) says the target word before the 60 second game clock expires. This is adjudicated rather than a simple text search so that we can handle several patterns found in the corpus, e.g.:
+In addition, we are measuring success rate of individual trials based on existing proofread transcripts of used in the original study. A trial only counts as a success if the guesser (not the clue giver) says the target word before the 60 second game clock expires. This is adjudicated rather than a simple text search so that we can handle several patterns found in the corpus, e.g.:
 - whole-word matching that tolerates regular plural/spelling variants (e.g., "donut"/"doughnut") and words split across two annotator segments (e.g., "zip" + "per" for "zipper")
 - exclusion of trials where only the clue giver accidentally said the target word (a rule slip, not a guess)
 - exclusion of correct guesses that occurred after the timer had run out
@@ -87,8 +87,7 @@ For successful trials, we additionally measure:
 - **time to success**: seconds from the clue-giver's first utterance to the guesser's correct guess
 - **communicative effort**: the number of clue-giver utterances produced before the correct guess
 
-
-Additionally it would be interesting to base this measure on the number of attempts at guessing (which is different from the number of tokens produced until taboo word is guessed (fillers))
+Additionally, it would be interesting to base this measure on the number of attempts at guessing (which is different from the number of tokens produced until taboo word is guessed (fillers))
 
 
 ## Questions 6 - Outliers and exclusions
