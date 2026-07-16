@@ -51,6 +51,8 @@ The following document consists of prompts for a preregistration based on the fo
 
 -   [**add_lit_here**]
 
+We only had three dyads available to us, which limits what we can do and the statistical power we can achieve. Nonetheless, for each trial (N=40 per dyad, 120 in total) we used OpenPose to calculate gesture rate and gesture duration. Ideally, we would have more data and we would run something like a linear mixed effects model (LME). This would control for the fact that individual trials are not independent data points - all trials within a dyad are related to each other as they are interactions between the same two people - by using a random intercept. See future directions for more information.
+
 **2. Participants that are familiar with one another have a higher success rate (more times successful).**
 
 -   [**add_lit_here**]
