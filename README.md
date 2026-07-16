@@ -6,7 +6,7 @@ title: "Preregistration *wobblyFriendships*"
 
 toc: false
 fig-cap-location: bottom
-number-sections: false
+number-sections: true
 link-citations: true # creates references with hyperlinks to the references
 crossref:
   fig-title: Fig.
