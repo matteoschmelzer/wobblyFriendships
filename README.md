@@ -77,9 +77,16 @@ Our analysis is based on an existing dataset used for an original study by Li et
 -   gesture space (per trial)
 -   gesture duration (per trial)
 
-In addition we are measuring success rate of individual trials based on existing proofread transcripts of used in the original study. This is operationalised via:
--   the number of tokens produced until the taboo word is guessed
--   the duration of the trial until the taboo word is guessed
+In addition we are measuring success rate of individual trials based on existing proofread transcripts of used in the original study. A trial only counts as a success if the guesser (not the clue giver) says the target word before the 60 second game clock expires. This is adjudicated rather than a simple text search so that we can handle several patterns found in the corpus, e.g.:
+- whole-word matching that tolerates regular plural/spelling variants (e.g., "donut"/"doughnut") and words split across two annotator segments (e.g., "zip" + "per" for "zipper")
+- exclusion of trials where only the clue giver accidentally said the target word (a rule slip, not a guess)
+- exclusion of correct guesses that occurred after the timer had run out
+- the 60s clock is timed from the clue-giver's first spoken segment, not from t=0 of the recording
+
+For successful trials, we additionally measure:
+- **time to success**: seconds from the clue-giver's first utterance to the guesser's correct guess
+- **communicative effort**: the number of clue-giver utterances produced before the correct guess
+
 
 Additionally it would be interesting to base this measure on the number of attempts at guessing (which is different from the number of tokens produced until taboo word is guessed (fillers))
 
