@@ -51,7 +51,8 @@ format: pdf
 2. Participants that are familiar with one another have a higher success rate (more times successful).
 -   [**add_lit_here**]
 
-3. Dyads that are familiar with each other will take longer time to accomplish a trial than dyads that are unfamiliar due to adding humour which may be not the most effiecient way to communicate the content. [rephrase this hypothesis since it is not really good phrased]
+3. Dyads with participants that are familiar with one other will take longer to accomplish a trial (consisting of a round of taboo) in comparison to dyads that are unfamiliar with one another. We assume this because familiarity enables the use of shared humour and in-jokes, which may increase enjoyment but simultaneously slow down effective guessing.
+-   [**add_lit_here**]
 
 4. Participants on the balance board take longer to successfully complete the Taboo task, due to increased allotment of resources allocated to balancing.
 -   [**add_lit_here**] this is based on studies that show that walking and unipedal standing caused participants to solve tasks more quickly, but we assume that balancing is more cognitively demanding as shown in another study
