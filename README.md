@@ -30,7 +30,9 @@ geometry:
 format: pdf
 ---
 
-# Pre-registration (on [*AsPredicted.org*](https://aspredicted.org/index.php))
+# Pre-registration (on [AsPredicted.org](https://aspredicted.org/index.php))
+The following document consists of prompts for a preregistration based on the format adopted by [*AsPredicted*](https://aspredicted.org/index.php)
+
 
 ## Authors (in alphabetical order)
 -  Solveigh Janzen ([`solveigh.janzen@uni-koeln.de`](mailto:solveigh.janzen@uni-koeln.de))
@@ -53,7 +55,7 @@ format: pdf
 
 -   [**add_lit_here**]
 
-This is an exploratory result as we use the 10 dyads from the balance corpus explorer (N=400 trials) rather than the 4 dyads used in the confirmatory Hypothesis 1. For initial findings see Fig. [-@fig-relationshipFindings, a)]. We find there is no support for this hypothesis. Success rate was near-identical for both groups (friend 91.5%; stranger 91.0%; trial-level χ²=0.00, p=1.00; pair-level Mann Whitney U=11.0, p=.831; logistic regression controlling for condition: OR=0.94 for stranger vs friend, p=.859). An overall ~91% success rate leaves little room for a relationship effect to surface, suggesting a likely ceiling effect, rather than a clean rejection of this hypothesis.
+This is an exploratory result as we use the 10 dyads from the balance corpus explorer (N=400 trials) rather than the 4 dyads used in the confirmatory Hypothesis 1. For initial findings see Fig. [-@fig-relationshipFindings, a)]. We find there is no support for this hypothesis. Success rate was near-identical for both groups (friend 91.5%; stranger 91.0%; trial-level $\chi$²=0.00, p=1.00; pair-level Mann Whitney U=11.0, p=.831; logistic regression controlling for condition: OR=0.94 for stranger vs friend, p=.859). An overall ~91% success rate leaves little room for a relationship effect to surface, suggesting a likely ceiling effect, rather than a clean rejection of this hypothesis.
 
 **3. Dyads with participants that are familiar with one other will take longer to accomplish a trial (consisting of a round of taboo) in comparison to dyads that are unfamiliar with one another. We assume this because familiarity enables the use of shared humour and in-jokes, which may increase enjoyment but simultaneously slow down effective guessing.**
 
@@ -67,7 +69,7 @@ This is also exploratory as we use the 10 dyads from Hypothesis 2 (N=400 trials)
 
 -   [**add_lit_here**] this is based on studies that show that walking and unipedal standing caused participants to solve tasks more quickly, but we assume that balancing is more cognitively demanding as shown in another study
 
-This is (yet again) exploratory as we use the 10 dyads from Hypotheses 2 and 3 (N=400 trials). We find no support for this hypothesis, see Fig. [-@fig-timeToSuccessFindings] If anything, we find that the non-significant trend is in the opposite direction. Trials on the balanace board were faster, not slower, than trials on stable ground (median 9.31s vs 10.62s; trial-level Mann Whitney U p=.292; paired per-pair Wilcoxon W=21.0, p=.557). Taboo word rule slips (accidentally saying a forbidden word) were also statistically indistinguishable between conditions (15.5% vs 14.0% of trials, χ²=.08, p=.778).
+This is (yet again) exploratory as we use the 10 dyads from Hypotheses 2 and 3 (N=400 trials). We find no support for this hypothesis, see Fig. [-@fig-timeToSuccessFindings] If anything, we find that the non-significant trend is in the opposite direction. Trials on the balanace board were faster, not slower, than trials on stable ground (median 9.31s vs 10.62s; trial-level Mann Whitney U p=.292; paired per-pair Wilcoxon W=21.0, p=.557). Taboo word rule slips (accidentally saying a forbidden word) were also statistically indistinguishable between conditions (15.5% vs 14.0% of trials, $\chi$²=.08, p=.778).
 
 ![**A.** time to success between *Board* and *Ground* conditions. **B.** bold line indicates mean difference between conditions.](transcripts/Figures/fig_condition_time_to_success.png){#fig-timeToSuccessFindings}
 
