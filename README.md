@@ -16,10 +16,12 @@
 1. The use of gesture increases (in terms of number of gestures as well as, complexity and gesture space used) when participants are unfamiliar with one another, in comparison to when they are familiar with one another.
 -   [**add_lit_here**]
 
-2. Participants that are familiar with one another have a higher success rate (more times successful and more quickly).
+2. Participants that are familiar with one another have a higher success rate (more times successful).
 -   [**add_lit_here**]
 
-3. Participants on the balance board take longer to successfully complete the Taboo task, due to increased allotment of resources allocated to balancing.
+3. Dyads that are familiar with each other will take longer time to accomplish a trial than dyads that are unfamiliar due to adding humour which may be not the most effiecient way to communicate the content. [rephrase this hypothesis since it is not really good phrased]
+
+4. Participants on the balance board take longer to successfully complete the Taboo task, due to increased allotment of resources allocated to balancing.
 -   [**add_lit_here**] this is based on studies that show that walking and unipedal standing caused participants to solve tasks more quickly, but we assume that balancing is more cognitively demanding as shown in another study
 
 
