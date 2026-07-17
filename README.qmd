@@ -37,8 +37,8 @@ The following document consists of prompts for a preregistration based on the fo
 ## Authors (in alphabetical order)
 -  Solveigh Janzen ([`solveigh.janzen@uni-koeln.de`](mailto:solveigh.janzen@uni-koeln.de))
 -  Kristina Koch ([`kkoch@tcd.ie`](mailto:kkoch@tcd.ie))
--  Matteo Schmelzer ([`matteo.schmelzer@uni-koeln.de`](mailto:matteo.schmelzer@uni-koeln.de))
 -  Tim Murphy ([`tim.murphy@bristol.ac.uk`](mailto:tim.murphy@bristol.ac.uk))
+-  Matteo Schmelzer ([`matteo.schmelzer@uni-koeln.de`](mailto:matteo.schmelzer@uni-koeln.de))
 -  Nthabiseng Shongwe ([`nthabiseng.shongwe@ru.nl`](mailto:nthabiseng.shongwe@ru.nl))
 
 
