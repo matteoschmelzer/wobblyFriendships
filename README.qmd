@@ -43,7 +43,7 @@ The following document consists of prompts for a preregistration based on the fo
 
 
 ## Question 1 - Data collection
-**Transcript & Demographic data.** We developed two Python scripts (`fetch_metadata_demographics.py` and `fetch_textgrid_transcripts.py` to scrape the transcript data from the Balance Corpus Explorer (https://thebalancecorpus.warwick.ac.uk/explore#). This provided us with the OpenAI Whisper transcripts that had been proof-checked by the authors. We decided to go with this approach instead of running Whisper locally because it saved time and provided us with higher quality transcripts for 10 dyads (only three dyads were provided in the MDIG2026 repository). This increase in data will give us more statistical power to test the hypotheses below. Note: the 10 dyads featured on the Balance Corpus Explorer explicitly gave consent for their data to be shared publicly.
+**Transcript & Demographic data.** We developed two Python scripts (`fetch_metadata_demographics.py` and `fetch_textgrid_transcripts.py` to scrape the transcript data from the [Balance Corpus Explorer](https://thebalancecorpus.warwick.ac.uk/explore#). This provided us with the OpenAI Whisper transcripts that had been proof-checked by the authors. We decided to go with this approach instead of running Whisper locally because it saved time and provided us with higher quality transcripts for 10 dyads (only three dyads were provided in the MDIG2026 repository). This increase in data will give us more statistical power to test the hypotheses below. Note: the 10 dyads featured on the Balance Corpus Explorer explicitly gave consent for their data to be shared publicly.
 
 **Video & Audio data.** Video and audio data from three dyads were made available to us through the MDIG2026 Summer School GitHub repository. 
 
@@ -112,11 +112,8 @@ We are excluding bilingual speakers as well as non-L1 speakers of English, to li
 
 
 ## Question 7 - Sample size
-4 dyads à 40 trials (N=160)
-
-participants:
--   5 female, 3 male
--   7 native monolingual speakers of English, one bilingual, L2 speaker (L1 Mandarin)
+-   4 dyads à 40 trials (*N*=160)
+-   5 female, 3 male participants, 7 native monolingual speakers of English, one bilingual, L2 speaker (L1 Mandarin)
 
 
 ## Question 8 - Other
@@ -133,7 +130,7 @@ We are working with an already collected data set, which was analysed under diff
 
 
 ## Question 11 - Data source
-other: Original audio and video files were taken from Li et al.'s [-@li2026] [zenodo](https://doi.org/10.5281/zenodo.19853626) repository
+`other`: Original audio and video files were taken from Li et al.'s [-@li2026] [zenodo](https://doi.org/10.5281/zenodo.19853626) repository
 
 
 ## Limitations / future directions
@@ -157,7 +154,7 @@ The taboo task itself could also be modified to be a challenge in which the goal
 Audio recordings should be manually labelled in more detail to indicate individual guessing attempts to compare duration until success and tokens produced
 
 ### data availability
-If we were to make additional recordings (or record a new set of recordings using the, possibly modified, setup) we would strongly consider applying a masking algorithm such as `MaskAnyone`[@owoyele2024] or `masked piper` [@owoyele2022a] to de-identify data and thus increase our ability to make data publically available for other researchers to use in their experiments.
+If we were to make additional recordings (or record a new set of recordings using the, possibly modified, setup) we would strongly consider applying a masking algorithm such as `MaskAnyone` [@owoyele2024] or `masked piper` [@owoyele2022a] to de-identify data and thus increase our ability to make data publically available for other researchers to use in their experiments.
 
 {{< pagebreak >}}
 
