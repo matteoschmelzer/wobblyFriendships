@@ -176,27 +176,29 @@ Audio recordings should be manually labelled in more detail to indicate individu
 ### data availability
 If we were to make additional recordings (or record a new set of recordings using the, possibly modified, setup) we would strongly consider applying a masking algorithm such as `MaskAnyone` [@owoyele2024] or `masked piper` [@owoyele2022a] to de-identify data and thus increase our ability to make data publically available for other researchers to use in their experiments.
 
+{{< pagebreak >}}
+
 ## CRediT
 
-**Conceptualization**: Solveigh Janzen, Kristina Koch, Tim Murphy, Matteo Schmelzer, Nthabiseng Shongwe
+- **Conceptualization**: Solveigh Janzen, Kristina Koch, Tim Murphy, Matteo Schmelzer, Nthabiseng Shongwe
 
-**Data curation**: Kristina Koch, Tim Murphy
+- **Data curation**: Kristina Koch, Tim Murphy
 
-**Formal analysis**: Kristina Koch, Tim Murphy, Matteo Schmelzer
+- **Formal analysis**: Kristina Koch, Tim Murphy, Matteo Schmelzer
 
-**Investigation**: Solveigh Janzen, Kristina Koch, Tim Murphy, Matteo Schmelzer, Nthabiseng Shongwe
+- **Investigation**: Solveigh Janzen, Kristina Koch, Tim Murphy, Matteo Schmelzer, Nthabiseng Shongwe
 
-**Methodology**: Solveigh Janzen, Kristina Koch, Tim Murphy, Matteo Schmelzer, Nthabiseng Shongwe
+- **Methodology**: Solveigh Janzen, Kristina Koch, Tim Murphy, Matteo Schmelzer, Nthabiseng Shongwe
 
-**Project administration**: Matteo Schmelzer
+- **Project administration**: Matteo Schmelzer
 
-**Software**: Kristina Koch, Tim Murphy
+- **Software**: Kristina Koch, Tim Murphy
 
-**Visualization**: Solveigh Janzen, Tim Murphy, Nthabiseng Shongwe
+- **Visualization**: Solveigh Janzen, Tim Murphy, Nthabiseng Shongwe
 
-**Writing –- original draft**: Solveigh Janzen, Tim Murphy, Matteo Schmelzer, Nthabiseng Shongwe
+- **Writing -- original draft**: Solveigh Janzen, Tim Murphy, Matteo Schmelzer, Nthabiseng Shongwe
 
-**Writing –- review & editing**: Solveigh Janzen, Matteo Schmelzer, Nthabiseng Shongwe
+- **Writing -- review & editing**: Solveigh Janzen, Matteo Schmelzer, Nthabiseng Shongwe
 
 {{< pagebreak >}}
 
