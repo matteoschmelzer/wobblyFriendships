@@ -69,7 +69,7 @@ This is an exploratory result as we use the 10 dyads from the balance corpus exp
 
 This is also exploratory as we use the 10 dyads from Hypothesis 2 (N=400 trials). We find weak support for this hypothesis at the trial level, but not at the pair level. For initial findings see Fig. [-@fig-relationshipFindings, b)]. Friend dyads took longer to reach a correct guess (median 11.13s vs 8.46s for strangers; trial-level Mann Whitney U p=.056) and needed slightly more clue-giver utterances before success (mean 6.24 vs 5.79, p=.194). Both results are in the predicted direction but neither holds up at the pair level, whee we collapse to one value per pair (Mann Whitney U=20.0, p=.151). With only 10 pairs in total, this is underpowered either way.
 
-![While friends are marginally more successful in guessing taboo words (**A**), dyads consisting of friends take more time (**B**), and use more words before succeeding (**C**).](transcripts/Figures/fig_relationship_findings.png){#fig-relationshipFindings}
+![Figure 1. **A)** Bar chart showing success rate for friend (n=200) and stranger (n=200) dyad trials. Error bars show 95% Wilson confidence intervals. **B)** Box plot showing time to success (seconds) at the trial level, by relationship. **C)** Box plot showing communicative effort, operationalised by clue-giver utterances before correct guess, at the trial level, by relationship.](transcripts/Figures/fig_relationship_findings.png){#fig-relationshipFindings}
 
 **4. Participants on the balance board take longer to successfully complete the Taboo task, due to increased allotment of resources allocated to balancing.**
 
