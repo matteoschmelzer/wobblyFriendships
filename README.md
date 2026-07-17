@@ -150,13 +150,13 @@ We are working with secondary data, which was analysed under different research 
 `other`: Original audio and video files were taken from Li et al.'s [-@li2026] [zenodo](https://doi.org/10.5281/zenodo.19853626) repository
 
 
-## Limitations / future directions
+# Limitations / future directions
 The following are not part of the preregistration as formatted on [*AsPredicted.org*](https://aspredicted.org/index.php).
 
-### non-independence of trials within dyads
+## non-independence of trials within dyads
 Throughout the exploratory analyses, each dyad contributes multiple trials (up to 40 per pair), and trials from the same two people are not independent observations - they share a common dyad-level baseline (e.g., that pair's own conversational rapport, gesture style, or task proficiency). Treating all trials as independent, as the trial-level tests do, risks psuedoreplication, where the effective sample size is inflated toward the number of trials rather than the number of dyads, which can produce artificially narrow confidence intervals and overconfident p-values. This is most visible in Hypothesis 2, where the trial-level test for time to success approaches significance (p=.056) but the pair-level test, which collapses each dyad to a single value, does not (p=.151).
 
-### enhanced demographics
+## enhanced demographics
 For a follow up replication of the basic setup, we would aim to collect more detailled demographics, to more reliably analyse differences in the success rate and language and gesture use of participants.
 
 Participant acquaintance (aka "friendship") should ideally be recorded in more depth than a binary measure recorded in the original study. A more accurate measure of friendship could at least consist of a questionnaire collecting information about level and duration of acquaintance. Sociocultural background needs to be considered as well, as different cultures' variety in using terms (such as "friend", "acquaintance") to describe friendship, although this might be already covered through the questionnaire items described above.
@@ -165,20 +165,20 @@ Further balancing ability of participants should be more accurately captured on 
 
 Participant acuity (relevant to playing Taboo) on the day of should also be tested, as it is likely to be influened by participant alertness, exhaustion.
 
-### cognitive load induced via balance board
+## cognitive load induced via balance board
 Induce more cognitive load onto participants by employing either a unidirectional balance board, which is more demanding to balance on. Alternatively (and this changes the manipulation/stimulus of the cognitive load), a platform that can simulate the regular sway of a ship or a random movement of the ground during an earthquake.
 
 The taboo task itself could also be modified to be a challenge in which the goals is to complete as many rounds of taboo within a set timeframe. This would (in motivated participants) increase pressure and add to the load induced through the balance board.
 
-### data annotation
+## data annotation
 Audio recordings should be manually labelled in more detail to indicate individual guessing attempts to compare duration until success and tokens produced
 
-### data availability
+## data availability
 If we were to make additional recordings (or record a new set of recordings using the, possibly modified, setup) we would strongly consider applying a masking algorithm such as `MaskAnyone` [@owoyele2024] or `masked piper` [@owoyele2022a] to de-identify data and thus increase our ability to make data publically available for other researchers to use in their experiments.
 
 {{< pagebreak >}}
 
-## CRediT
+# CRediT
 
 - **Conceptualization**: Solveigh Janzen, Kristina Koch, Tim Murphy, Matteo Schmelzer, Nthabiseng Shongwe
 
