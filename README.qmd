@@ -106,7 +106,7 @@ Our dependent variable is success rate, which is operationalised as described un
 Our analysis is based on an existing dataset used for an original study by Li et al. [-@li2026]. We plan to extract and analyse gestures using `EnvisionBoxHGDetector` [@pouw2025a] using the video files provided in the original study. Based on this output we are measuring:
 
 -   gestural rate (per trial)
--   gesture space (per trial)
+<!---   gesture space (per trial)-->
 -   gesture duration (per trial)
 
 In addition, we are measuring success rate of individual trials based on existing proofread transcripts of used in the original study. A trial only counts as a success if the guesser (not the clue giver) says the target word before the 60 second game clock expires. This is adjudicated rather than a simple text search so that we can handle several patterns found in the corpus, e.g.:
