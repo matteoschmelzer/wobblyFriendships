@@ -59,7 +59,7 @@ Video and audio data from three dyads were made available to us through the [MDI
 This is an exploratory result as we use the 10 dyads from the balance corpus explorer (N=400 trials) rather than the 4 dyads used in the confirmatory Hypothesis 1. For initial findings see Fig. [-@fig-relationshipFindings, a)]. We find there is no support for this hypothesis. Success rate was near-identical for both groups (friend 91.5%; stranger 91.0%; trial-level $\chi$²=0.00, p=1.00; pair-level Mann Whitney U=11.0, p=.831; logistic regression controlling for condition: OR=0.94 for stranger vs friend, p=.859). An overall ~91% success rate leaves little room for a relationship effect to surface, suggesting a likely ceiling effect, rather than a clean rejection of this hypothesis.
 
 
-![Figure 1. **A)** Bar chart showing success rate for friend (n=200) and stranger (n=200) dyad trials. Error bars show 95% Wilson confidence intervals. **B)** Box plot showing time to success (seconds) at the trial level, by relationship. **C)** Box plot showing communicative effort, operationalised by clue-giver utterances before correct guess, at the trial level, by relationship.](transcripts/Figures/fig_relationship_findings.png){#fig-relationshipFindings}
+![**A)** Bar chart showing success rate for friend (n=200) and stranger (n=200) dyad trials. Error bars show 95% Wilson confidence intervals. **B)** Box plot showing time to success (seconds) at the trial level, by relationship. **C)** Box plot showing communicative effort, operationalised by clue-giver utterances before correct guess, at the trial level, by relationship.](transcripts/Figures/fig_relationship_findings.png){#fig-relationshipFindings}
 
 
 **2. Dyads with participants that are familiar with one other will take longer to accomplish a trial (consisting of a round of taboo) in comparison to dyads that are unfamiliar with one another. We assume this because familiarity enables the use of shared humour and in-jokes, which may increase enjoyment but simultaneously slow down effective guessing.**
@@ -83,7 +83,7 @@ We only had three dyads available to us, which limits what we can do and the sta
 This is (yet again) exploratory as we use the 10 dyads from Hypotheses 2 and 3 (N=400 trials). We find no support for this hypothesis, see Fig. [-@fig-timeToSuccessFindings] If anything, we find that the non-significant trend is in the opposite direction. Trials on the balanace board were faster, not slower, than trials on stable ground (median 9.31s vs 10.62s; trial-level Mann Whitney U p=.292; paired per-pair Wilcoxon W=21.0, p=.557). Taboo word rule slips (accidentally saying a forbidden word) were also statistically indistinguishable between conditions (15.5% vs 14.0% of trials, $\chi$²=.08, p=.778).
 
 
-![**A.** time to success between *Board* and *Ground* conditions. **B.** bold line indicates mean difference between conditions.](transcripts/Figures/fig_condition_time_to_success.png){#fig-timeToSuccessFindings}
+![**A)** Box plot showing time to success (seconds) at the trial level, by condition (board vs ground) (Mann Whitney U p=.292). **B)** Spaghetti plot showing the per-pair change in median time to success (seconds) from board to ground. Bold line shows the mean change across pairs (Wilcoxon signed-rank test p=.557).](transcripts/Figures/fig_condition_time_to_success.png){#fig-timeToSuccessFindings}
 
 
 ## Question 3 - Dependent variable(s)
