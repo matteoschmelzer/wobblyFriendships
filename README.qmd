@@ -149,6 +149,9 @@ We are working with an already collected data set, which was analysed under diff
 ## Limitations / future directions
 The following are not part of the preregistration as formatted on [*AsPredicted.org*](https://aspredicted.org/index.php).
 
+### non-independence of trials within dyads
+Throughout the exploratory analyses, each dyad contributes multiple trials (up to 40 per pair), and trials from the same two people are not independent observations - they share a common dyad-level baseline (e.g., that pair's own conversational rapport, gesture style, or task proficiency). Treating all trials as independent, as the trial-level tests do, risks psuedoreplication, where the effective sample size is inflated toward the number of trials rather than the number of dyads, which can produce artificially narrow confidence intervals and overconfident p-values. This is most visible in Hypothesis 2, where the trial-level test for time to success approaches significance (p=.056) but the pair-level test, which collapses each dyad to a single value, does not (p=.151).
+
 ### enhanced demographics
 For a follow up replication of the basic setup, we would aim to collect more detailled demographics, to more reliably analyse differences in the success rate and language and gesture use of participants.
 
