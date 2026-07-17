@@ -135,7 +135,7 @@ We are excluding bilingual speakers as well as non-L1 speakers of English, to li
 
 ## Question 8 - Other
 Reasoning for question 1) answer:
-We are working with secondary data, which was analysed under different research questions, and a subset was made publically available by the authors of the original study (@li2026).
+We are working with secondary data, which was analysed under different research questions, and a subset was made publicly available by the authors of the original study (@li2026).
 
 
 ## Question 9 - Name
